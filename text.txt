@@ -1,0 +1,2 @@
+el proyecto se corre escribiendo npm run start
+para compilar : npm run build:css
